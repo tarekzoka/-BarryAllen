@@ -11,7 +11,7 @@
 #############################################################################################################################
 
 PACKAGE_DIR='BarryAllen/main'
-MY_DEB="enigma2-plugin-extensions-barryallen_12.81_all.deb"
+MY_DEB="enigma2-plugin-extensions-barryallen_12.91_all.deb"
 
 
 #############################################################################################################################
@@ -93,3 +93,4 @@ else
 	echo "Download failed !"
 	exit 1
 fi
+tarek
